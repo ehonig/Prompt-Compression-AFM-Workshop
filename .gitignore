@@ -1,0 +1,4 @@
+.venv
+*cache*
+data/arxiv*
+data/*txt
